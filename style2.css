@@ -1,0 +1,34 @@
+body {
+    background-repeat: no-repeat;
+    background-position: top;
+    background-color: azure;
+    background-image: url(images/comp.png)
+}
+
+#headline {
+    text-align: center;
+    margin-top: 120px;
+    font-family:fantasy;
+    font-size: 32px;
+} 
+#hrefs {
+    text-align: center;
+    font-family:fantasy;
+    font-size: 25px;
+}
+#hrefs a{
+    text-decoration: none;
+    color: #9a9592;
+}
+#hrefs a:hover{
+    background: black;
+    color: #9a9592;
+}
+table {
+    margin-left:auto; 
+    margin-right:auto;
+    border-bottom-color: black;
+    border-top-color: black;
+  }
+
+
